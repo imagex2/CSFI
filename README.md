@@ -1,2 +1,2 @@
-# ISFT
-The implementation of ISFT will be uploaded soon.
+# ISFI
+The implementation of ISFI will be uploaded soon.
